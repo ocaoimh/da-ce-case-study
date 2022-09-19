@@ -4,7 +4,7 @@
 
 <br/>
 
-**Lesson 3.8: Multi-class classification & Classification models is part of the unit 3 and it happening on Friday of week 3.**
+**Lesson 3.8: Multi-class classification & Classification models is part of Unit 3 and takes place on Friday of Week 3.**
 
 <br/>
 
